@@ -83,7 +83,7 @@ namespace WFservicos
         public override string ToString()
         {
             return cli;
-        }        
+        }
     }
 
     public class Dados
@@ -91,5 +91,5 @@ namespace WFservicos
         public double TotalPago { get; set; }
         public double TotalPagar { get; set; }
     }
-    
+
 }
